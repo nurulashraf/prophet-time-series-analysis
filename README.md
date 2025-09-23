@@ -59,7 +59,7 @@ Time-series forecasting using Facebook’s Prophet: loading data, detecting tren
    pip install -r requirements.txt
    ```
 
-4. **Open notebooks**
+4. **Open notebook**
 
    Launch Jupyter:
 
@@ -73,12 +73,7 @@ Time-series forecasting using Facebook’s Prophet: loading data, detecting tren
    jupyter lab
    ```
 
-   Then open the notebooks in the `notebooks/` folder in sequence:
-
-   * Data loading & exploration
-   * Trend & seasonality
-   * Model fitting & forecast
-   * Evaluation & visualisation
+   Then open the notebook in the `notebooks/` folder.
 
 5. **Adjust data / parameters as needed**
 
